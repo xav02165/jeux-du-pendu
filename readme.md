@@ -1,6 +1,8 @@
 Jeu de Pendu
 
-Objectif: developper un jeu de pendu en utilisant le HTML, CSS et Javascript et en utilisant les fonctions de bases deja vu en formation.
+Objectif: developper un jeu de pendu qui puisse se jouer a 2, un joueur choisissant un mot de deviner et l'autre aura pour objectif de deviner ce mot en choisissant des lettres en utilisant le HTML, CSS et Javascript et en utilisant les fonctions de bases deja vu en formation.
+Ce jeux comportera un affichage des lettres deja trouvées, un compteur du nombre d' essais restant, un bouton pour reinitialiser ainsi qu'une animation du pendu qui evoluera au fur et a mesure des mauvaises reponses.
+
 
 Decoupage du projet:
 1: HTML
