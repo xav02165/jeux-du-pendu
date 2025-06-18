@@ -25,6 +25,7 @@ affichageMot.textContent = lettresTrouvees.join(" ");
 /**
  * @param {string} event -la lettre obtenu par addEventListener
  * @param {string} lettre -constante creé apres recuperation de la lettre par addEventlistener
+ * 
  * Fonction pour gérer le choix d'une lettre (validation de la lettre, comparaison avec le mot a trouver, declenchement ou non de l'affichage du pendu)
  */ 
 function verifierLettre(event) {
