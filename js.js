@@ -35,6 +35,8 @@ function verifierLettre(event) {
     return;
   }
 
+ 
+ 
   if (motADeviner.includes(lettre)) {
     // Met à jour les lettres trouvées
     for (let i = 0; i < motADeviner.length; i++) {
